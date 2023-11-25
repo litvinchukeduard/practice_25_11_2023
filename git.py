@@ -12,3 +12,23 @@
 # git init 
 
 # git status 
+
+# git add .
+
+# git commit -m "First commit"
+
+# git branch -M main
+# git remote add origin https://github.com/litvinchukeduard/practice_25_11_2023.git
+
+# git push --set-upstream origin main
+
+# git push
+
+# git checkout -b feature
+
+# git checkout main
+
+# git checkout feature
+
+
+
